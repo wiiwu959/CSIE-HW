@@ -1,0 +1,21 @@
+The PlayerID 3 is Bruce and Shooting rate:70%
+The PlayerID 4 has no character
+The PlayerID 5 has no character
+The PlayerID 6 is Diana and Shooting rate:93% 
+The player name Zod does not exist
+Clark is the better player
+The player name Fury and Stephen do not exist
+The player name Barry does not exist
+The player name Tony does not exist
+The player name Stephen does not exist
+The player name Vision does not exist
+All Player 
+ID:01 Name: Orig Shooting rate:16.4% 
+ID:02 Name: Steve Shooting rate:100% 
+ID:03 Name: Bruce Shooting rate:70% 
+ID:06 Name: Diana Shooting rate:93% 
+ID:08 Name: Clark Shooting rate:100% 
+ID:10 Name: Cyborg Shooting rate:84% 
+
+
+

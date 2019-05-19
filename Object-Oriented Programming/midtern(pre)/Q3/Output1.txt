@@ -1,0 +1,4 @@
+not balanced
+balanced
+balanced
+not balanced

@@ -1,0 +1,24 @@
+The PlayerID 3 is Bruce and Shooting rate:70%
+The PlayerID 4 has no character
+The PlayerID 5 is Diana and Shooting rate:93% 
+The PlayerID 6 is Banner and Shooting rate:100% 
+The player name Zod does not exist
+Clark is the better player
+The player name Stephen does not exist
+Clark is the better player
+Bruce is the better player
+The player name Stephen does not exist
+The player name Vision does not exist
+All Player 
+ID:01 Name: Arthur Shooting rate:16.4% 
+ID:02 Name: Steve Shooting rate:100% 
+ID:03 Name: Bruce Shooting rate:70% 
+ID:05 Name: Diana Shooting rate:93% 
+ID:06 Name: Banner Shooting rate:100% 
+ID:07 Name: Fury Shooting rate:58.5% 
+ID:08 Name: Clark Shooting rate:100% 
+ID:09 Name: Barry Shooting rate:81.5% 
+ID:10 Name: Tony Shooting rate:47% 
+
+
+

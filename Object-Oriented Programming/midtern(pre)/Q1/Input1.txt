@@ -1,0 +1,10 @@
+motorcycle 10
+Motorcycle 8.178624
+Bike 5
+car 9.5
+bik 2
+Plane -5
+Motorcycle -1
+Bike -5
+car 20
+bike 30

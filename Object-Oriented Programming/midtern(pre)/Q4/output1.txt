@@ -1,0 +1,13 @@
+assign && setter test :
+dimension  1 :  1
+dimension  2 :  10
+dimension  3 :  3
+add test :
+dimensions inconsintent
+0
+inner product test :
+28
+scale test :
+dimension  1 :  5
+dimension  2 :  10
+dimension  3 :  15

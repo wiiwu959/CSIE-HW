@@ -1,0 +1,43 @@
+int main() {
+
+	VecNf empty;
+	float xy[] = { 3.5, 2.0 };
+	float xyz[] = { 1.0, 2.5, 4.0 };
+	float xyz2[] = { -5.0, -4.5, -4.0 };
+
+	VecNf Vxy(xy, 2);
+	VecNf Vxyz(xyz, 3);
+	VecNf Vxyz2(xyz2, 3);
+
+	//assign
+	VecNf copy = Vxyz;
+
+	//setter
+	copy[2] = 0.1;
+
+	cout << "assign && setter test :" << endl;
+	for (int i = 0; i < 3; i++) {
+		cout << "dimension  " << i + 1 << " :  " << copy[i] << endl;
+	}
+
+	//minus test
+	cout << "minus test :" << endl;
+	VecNf minus = Vxyz - Vxyz2;
+	for (int i = 0; i < 3; i++) {
+		cout << "dimension  " << i + 1 << " :  " << minus[i] << endl;
+	}
+
+	//inner product test & dimension inconsistent test
+	cout << "inner product test : " << endl;
+	cout << Vxyz * Vxy << endl;
+
+	//scale test
+	cout << "scale test : " << endl;
+	VecNf scale = Vxyz * 0.1;
+	for (int i = 0; i < 3; i++) {
+		cout << "dimension  " << i + 1 << " :  " << scale[i] << endl;
+	}
+
+	system("pause");
+	return 0;
+}

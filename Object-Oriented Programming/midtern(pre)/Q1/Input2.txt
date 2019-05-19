@@ -1,0 +1,10 @@
+Motor 10
+carry 20
+Car 0
+bicycle -1
+car 0.1
+Bicycle 5
+motorcycle 6.5
+bike 30
+Car 8
+Motorcycle 30

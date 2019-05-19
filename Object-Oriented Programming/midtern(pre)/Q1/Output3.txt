@@ -1,0 +1,10 @@
+The Parking fee is 1850
+The Parking fee is 0
+The Parking fee is 210
+System does not support this time number.
+System does not support this time number.
+System does not support this type of vehicle.
+System does not support this type of vehicle.
+The Parking fee is 490
+The Parking fee is 0
+The Parking fee is 1150

@@ -1,0 +1,23 @@
+The PlayerID 3 is Vision and Shooting rate:100%
+The PlayerID 4 is Zod and Shooting rate:100%
+The PlayerID 5 is Peter and Shooting rate:88% 
+The PlayerID 6 is Banner and Shooting rate:100% 
+The player name Clark does not exist
+The player name Clark and Bruce do not exist
+Stephen is the better player
+The player name Clark does not exist
+The player name Tony and Bruce do not exist
+The player name Steve does not exist
+The player name Steve does not exist
+All Player 
+ID:01 Name: Arthur Shooting rate:16.4% 
+ID:03 Name: Vision Shooting rate:100% 
+ID:04 Name: Zod Shooting rate:100% 
+ID:05 Name: Peter Shooting rate:88% 
+ID:06 Name: Banner Shooting rate:100% 
+ID:07 Name: Fury Shooting rate:58.5% 
+ID:08 Name: Stephen Shooting rate:83% 
+ID:09 Name: Barry Shooting rate:81.5% 
+
+
+

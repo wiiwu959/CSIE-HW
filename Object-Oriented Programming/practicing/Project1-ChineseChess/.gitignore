@@ -1,0 +1,12 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs
+/Project1-ChineseChess/x64/Debug
+/x64/Debug
+/x64/Release
+/x64
+/Project1-ChineseChess/save
+/Project1-ChineseChess/x64/Release/Project1.6B1F7513.tlog
+/Project1-ChineseChess/x64/Release

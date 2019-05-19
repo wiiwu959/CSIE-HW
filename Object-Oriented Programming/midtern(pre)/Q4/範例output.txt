@@ -1,0 +1,14 @@
+Vector xy
+dimension  1 :  3
+dimension  2 :  2
+Vector xyz
+dimension  1 :  1
+dimension  2 :  2
+dimension  3 :  3
+Vector add
+dimension  1 :  7
+dimension  2 :  7
+dimension  3 :  7
+dot = 28
+dimensions inconsintent
+dot = 0

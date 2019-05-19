@@ -1,0 +1,10 @@
+car 20
+bike 10
+Motorcycle 5.68
+Motorcycle -10
+bike 0
+cycle -10
+bicycycle 10
+motorcycle 13
+Bicycle 25
+Car 12.5
