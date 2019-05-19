@@ -1,0 +1,10 @@
+# encoding: utf-8
+#using python3
+#示範的是os中mkdir和rmdir的使用
+
+import os                   #這裡是先導入os module的意思
+print (os.listdir('D:'))    #然後印出D槽的所有檔案
+os.mkdir('test')            #接著使用mkdir建立一個名為test的檔案夾
+print (os.listdir('D:'))    #在印出一次所有檔案，會發現多了名為test的檔案
+os.rmdir('test')            #使用redir刪除這個test檔案
+print (os.listdir('D:'))    #印出所有檔案，這時test檔案不見了
