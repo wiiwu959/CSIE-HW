@@ -1,0 +1,5 @@
+the index is out of array
+charList index(1) : A
+the index is out of array
+doubleRead : 0.2658
+you can not change this value

@@ -1,0 +1,16 @@
+intList length : 10
+you can not change this value
+intList length : 10
+intList index(2) : 0
+the index is out of array
+the index is out of array
+doubleList index(2) : 0.48
+the index is out of array
+doubleList length : 0
+the index is out of array
+charList index(1) :  
+charList index(1) : b
+alphabet : A
+you can not change this value
+integer : 50
+you can not change this value

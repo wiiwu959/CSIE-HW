@@ -1,0 +1,7 @@
+doubleList index(1) : 0
+doubleList index(2) : 0.48
+the index is out of array
+the index is out of array
+charList index(1) : b
+alphabet : A
+you can not change this value

@@ -1,0 +1,50 @@
+
+---------------------
+MyVector Implementation
+
+---------------------
+1.Insert Element into the MyVector
+2.Delete Last Element of the MyVector
+3.Size of the MyVector
+4.Display by Index
+5.Clear the MyVector
+6.Exit
+Enter your Choice: 1
+Enter value to be inserted: 9
+Enter your Choice: 1
+Enter value to be inserted: 8
+Enter your Choice: 1
+Enter value to be inserted: 7
+Enter your Choice: 1
+Enter value to be inserted: 6
+Enter your Choice: 1
+Enter value to be inserted: 5
+Enter your Choice: 1
+Enter value to be inserted: 4
+Enter your Choice: 1
+Enter value to be inserted: 3
+Enter your Choice: 1
+Enter value to be inserted: 2
+Enter your Choice: 1
+Enter value to be inserted: 1
+Enter your Choice: 4
+Displaying Vector by Index: 9 8 7 6 5 4 3 2 1
+Enter your Choice: 2
+Delete Last Element Inserted
+Enter your Choice: 4
+Displaying Vector by Index: 9 8 7 6 5 4 3 2
+Enter your Choice: 2
+Delete Last Element Inserted
+Enter your Choice: 2
+Delete Last Element Inserted
+Enter your Choice: 3
+Size of Vector: 6
+Enter your Choice: 4
+Displaying Vector by Index: 9 8 7 6 5 4
+Enter your Choice: 5
+Vector Cleared
+Enter your Choice: 4
+Displaying Vector by Index:
+Enter your Choice: 3
+Size of Vector: 0
+Enter your Choice:
