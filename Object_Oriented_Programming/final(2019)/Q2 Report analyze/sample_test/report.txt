@@ -1,0 +1,10 @@
+Amaan Prince,001:25,015:65,521:78,999:100
+Jesse Orr,521:51,069:23,523:56,999:23
+Saul Benjamin,523:0,100:100,125:0,999:56
+Khalid Scott,521:100,523:100,125:100,999:56
+Warren Mills,069:0,054:0,678:0,999:89
+Todd Baker,521:50,069:30,125:56,999:85
+George Raymond,001:100,015:61,125:14,678:25
+Harold Rosales,521:52,100:33,54:4
+Maximilian Perez,015:12,069:56,100:33
+Adil Garrison

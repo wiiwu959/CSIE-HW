@@ -1,0 +1,58 @@
+No Student
+name:Amaan Prince
+001:25
+015:65
+521:78
+999:100
+average:67
+name:Warren Mills
+054:0
+069:0
+678:0
+999:89
+average:22.25
+Khalid Scott:89
+Amaan Prince:67
+Todd Baker:55.25
+George Raymond:50
+Saul Benjamin:39
+Jesse Orr:38.25
+Maximilian Perez:33.6667
+Harold Rosales:29.6667
+Warren Mills:22.25
+Adil Garrison:0
+course:999
+Amaan Prince:100
+Jesse Orr:23
+Khalid Scott:56
+Saul Benjamin:56
+Todd Baker:85
+Warren Mills:89
+average:68.1667
+course:100
+Harold Rosales:33
+Maximilian Perez:33
+Saul Benjamin:100
+average:55.3333
+course:080
+No course record
+course:001
+AHellowWorld:25
+Amaan Prince:25
+George Raymond:100
+average:50
+course:080
+Warren Mills:100
+average:100
+No Student
+Khalid Scott:89
+AHellowWorld:67
+Amaan Prince:67
+Todd Baker:55.25
+George Raymond:50
+Saul Benjamin:39
+Jesse Orr:38.25
+Warren Mills:37.8
+Maximilian Perez:33.6667
+Harold Rosales:29.6667
+Adil Garrison:0

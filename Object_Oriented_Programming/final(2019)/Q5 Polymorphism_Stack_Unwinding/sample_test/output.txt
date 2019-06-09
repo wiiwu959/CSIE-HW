@@ -1,0 +1,12 @@
+Triangle
+Side length cannot be negative or zero.
+Rectangle
+Area:16
+Perimeter:16
+Correct.
+Circle
+Side length cannot be negative or zero.
+Hexagon
+Area:127
+Perimeter:42
+Correct.

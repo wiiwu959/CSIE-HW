@@ -1,0 +1,31 @@
+﻿data\source:
+        123.gif
+        NTUST.png
+        NTUST_CSIE.docx
+        NTUST_CSIE.pdf
+        PIC
+        School
+        Stanford.PNG
+        test1.txt
+        test2.txt
+false
+true
+false
+false
+false
+true
+5561    byte(s)
+3       byte(s)
+Copy successful
+data\copy1:
+        STF.PNG 3.70888 MB
+Copy failed
+Copy successful
+data\copy1:
+        NTUST
+        other
+        STF.PNG 3.70888 MB
+data\copy1\NTUST:
+        NTUST.png       5.43066 KB
+        NTUST_CSIE.docx 12.874  KB
+        NTUST_CSIE.pdf  179.646 KB

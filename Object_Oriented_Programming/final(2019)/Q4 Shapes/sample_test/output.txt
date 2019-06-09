@@ -1,0 +1,27 @@
+The Area of Shape 0: 50.2655
+The Perimeter of Shape 0: 25.1327
+The Center of Shape 0: ( -3, -2 )
+The Area of Shape 1: 36.3168
+The Perimeter of Shape 1: 21.3628
+The Center of Shape 1: ( 1.5, 3 )
+The Area of Shape 2: 26.25
+The Perimeter of Shape 2: 24.2186
+The Center of Shape 2: ( 5.5, 0 )
+The Area of Shape 3: 3.075
+The Perimeter of Shape 3: 10.9814
+The Center of Shape 3: ( -1.83333, 0.166667 )
+The Area of Shape 4: 79.75
+The Perimeter of Shape 4: 36.5
+The Center of Shape 4: ( 0.5, -4.375 )
+The Area of Shape 5: 24
+The Perimeter of Shape 5: 20
+The Center of Shape 5: ( 2, -4 )
+Shape 1 and 0 is overlap.
+Shape 2 and 1 is overlap.
+Shape 3 and 0 is overlap.
+Shape 3 and 1 is overlap.
+Shape 4 and 0 is overlap.
+Shape 4 and 2 is overlap.
+Shape 5 and 0 is overlap.
+Shape 5 and 2 is overlap.
+Shape 5 and 4 is overlap.
