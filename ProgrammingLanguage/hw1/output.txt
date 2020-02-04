@@ -1,0 +1,183 @@
+Four testing accounts are open at Mon Jul 29 00:00:00 GMT+08:00 2019
+
+-----Test CheckingAccount.-----
+Initial amount in Account :
+Number of days since last interest is 0
+Interest earned is 0.0
+Account <John Smith> now has $1500.0 balance
+
+Withdraw $300 :
+Account <John Smith> now has $1200.0 balance
+
+Withdraw $500 :
+EXCEPTION: Banking system throws a class BankingException with message:
+        MESSAGE: Underfraft from checking account name:John Smith
+        Account balance remains $1200.0
+
+Deposit $1000 :
+Account <John Smith> now has $2200.0 balance
+
+Interest after 1 month : 
+Number of days since last interest is 31
+Interest earned is 22.421917808219177
+Account <John Smith> now has $2222.4219178082194 balance
+
+-----Test SavingAccount.-----
+Initial amount in Account :
+Number of months since last interest is 0
+Interest earned is 0.0
+Account <William Hurt> now has $1200.0 balance
+
+Withdraw $600 :
+Account <William Hurt> now has $600.0 balance
+
+Withdraw $100 :
+Account <William Hurt> now has $500.0 balance
+
+Deposit $1000 :
+Account <William Hurt> now has $1500.0 balance
+
+Withdraw $100 : (should fee for $1)
+Account <William Hurt> now has $1399.0 balance
+
+Interest after 2 months :
+Number of months since last interest is 2
+Interest earned is 27.979999999999997
+Account <William Hurt> now has $1426.98 balance
+
+-----Test CDAccount.-----
+Initial amount in Account :
+Number of months since last interest is 0
+Interest earned is 0.0
+Account <Woody Allison> now has $1000.0 balance
+
+Withdraw $600 :(fee for $250)
+Account <Woody Allison> now has $150.0 balance
+
+Deposit $1000 :(Not able)
+EXCEPTION: Banking system throws a class BankingException with message:
+        MESSAGE: Invalid date to deposit for Woody Allison
+        Account balance remains $150.0
+
+Withdraw $600 :
+EXCEPTION: Banking system throws a class BankingException with message:
+        MESSAGE: No enough money to withdraw for Woody Allison
+        Account balance remains $150.0
+
+Deposit $1000 :
+Account <Woody Allison> now has $1150.0 balance
+
+Interest after 13 months :
+Number of months since last interest is 13
+Interest earned is 149.49999999999997
+Account <Woody Allison> now has $1299.5 balance
+
+-----Test LoanAccount.-----
+Initial amount in Account :
+Number of days since last interest is 0
+Interest earned is -0.0
+Withdraw $600 :(not able)
+EXCEPTION: Banking system throws a class BankingException with message:
+        MESSAGE: It's invalid to withdraw for account nameJudi Foster
+        Account balance remains $-1500.0
+
+Deposit $1000 :
+Account <Judi Foster> now has $-500.0 balance
+
+Interest after 1 months :
+Number of days since last interest is 1
+Interest earned is -4.999999999999999
+Account <Judi Foster> now has $-505.0 balance
+
+PS D:\school\ProgrammingLanguage\hw\hw1> javac .\Application.java .\Account.java
+PS D:\school\ProgrammingLanguage\hw\hw1> java Application
+Four testing accounts are open at Mon Jul 29 00:00:00 GMT+08:00 2019
+
+-----Test CheckingAccount.-----
+Initial amount in Account :
+Number of days since last interest is 0
+Interest earned is 0.0
+Account <John Smith> now has $1500.0 balance
+
+Withdraw $300 :
+Account <John Smith> now has $1200.0 balance
+
+Withdraw $500 :
+EXCEPTION: Banking system throws a class BankingException with message: 
+        MESSAGE: Underfraft from checking account name:John Smith
+        Account balance remains $1200.0
+
+Deposit $1000 :
+Account <John Smith> now has $2200.0 balance
+
+Interest after 1 month :
+Number of days since last interest is 31
+Interest earned is 22.421917808219177
+Account <John Smith> now has $2222.4219178082194 balance
+
+-----Test SavingAccount.-----
+Initial amount in Account :
+Number of months since last interest is 0
+Interest earned is 0.0
+Account <William Hurt> now has $1200.0 balance
+
+Withdraw $600 :
+Account <William Hurt> now has $600.0 balance
+
+Withdraw $100 :
+Account <William Hurt> now has $500.0 balance
+
+Deposit $1000 :
+Account <William Hurt> now has $1500.0 balance
+
+Withdraw $100 : (should fee for $1)
+Account <William Hurt> now has $1399.0 balance
+
+Interest after 2 months :
+Number of months since last interest is 2
+Interest earned is 27.979999999999997
+Account <William Hurt> now has $1426.98 balance
+
+-----Test CDAccount.-----
+Initial amount in Account :
+Number of months since last interest is 0
+Interest earned is 0.0
+Account <Woody Allison> now has $1000.0 balance
+
+Withdraw $600 :(fee for $250)
+Account <Woody Allison> now has $150.0 balance
+
+Deposit $1000 :(Not able)
+EXCEPTION: Banking system throws a class BankingException with message:
+        MESSAGE: Invalid date to deposit for Woody Allison
+        Account balance remains $150.0
+
+Deposit $1000 :
+Account <Woody Allison> now has $1150.0 balance
+
+Withdraw $600 :
+Account <Woody Allison> now has $550.0 balance
+
+Interest after 13 months :
+Number of months since last interest is 13
+Interest earned is 71.49999999999999
+Account <Woody Allison> now has $621.5 balance
+
+-----Test LoanAccount.-----
+Initial amount in Account :
+Number of days since last interest is 0
+Interest earned is -0.0
+Account <Judi Foster> now has $-1500.0 balance
+
+Withdraw $600 :(not able)
+EXCEPTION: Banking system throws a class BankingException with message:
+        MESSAGE: It's invalid to withdraw for account nameJudi Foster
+        Account balance remains $-1500.0
+
+Deposit $1000 :
+Account <Judi Foster> now has $-500.0 balance
+
+Interest after 1 months :
+Number of days since last interest is 1
+Interest earned is -4.999999999999999
+Account <Judi Foster> now has $-505.0 balance
